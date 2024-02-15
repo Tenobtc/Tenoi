@@ -1,0 +1,34 @@
+/*
+   G e n e r a t e d  by ex4-to-mq4 decompiler FREEWARE 4.0.509.5
+   Website: H TT p: / / WWW . m e TAQ UO Tes .nEt
+   E-mail : SU pp OR t @Me TAqu ot eS . NeT
+*/
+#property copyright "BrainTrading Inc."
+#property link      "www.forex-tsd.com"
+
+#property indicator_chart_window
+#property indicator_buffers 2
+#property indicator_color1 Blue
+#property indicator_color2 Red
+
+extern int NumBars = 500;
+extern int EnableAlerts = 1;
+extern int SignalID = 0;
+double Gda_88[];
+double Gda_92[];
+double Gd_96;
+double Gd_104 = 0.0;
+
+// E37F0136AA3FFAF149B351F6A4C948E9
+int init() {
+   SetIndexStyle(0, DRAW_ARROW);
+   SetIndexBuffer(0, Gda_88);
+   SetIndexArrow(0, 233);
+   SetIndexEmptyValue(0, 0.0);
+   SetIndexStyle(1, DRAW_ARROW);
+   SetIndexBuffer(1, Gda_92);
+   SetIndexArrow(1, 234);
+   SetIndexEmptyValue(1, 0.0);
+   Gd_96 = MarketInfo(Symbol(), MODE_SPREAD) * Point;
+   SetIndexDrawBegin(0, 0);
+   return (0);
