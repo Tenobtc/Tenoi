@@ -4,3 +4,9 @@ Traceback (most recent call last):
   File "testing.py", line 1, in <module>
     number_1 = int(input('Enter your first number: '))
 ValueError: invalid literal for int() with base 10: 'sammy'
+  number_2 = int(input('Enter your first number: '))
+ValueError: invalid literal for int() with base 10: 'sammy'
+  number_3 = int(input('Enter your first number: '))
+ValueError: invalid literal for int() with base 10: 'sammy'
+  number_4 = int(input('Enter your first number: '))
+ValueError: invalid literal for int() with base 10: 'sammy'
