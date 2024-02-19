@@ -1,0 +1,18 @@
+#property indicator_chart_window
+#property indicator_buffers 8
+#property indicator_color1 clrRed
+#property indicator_color2 clrLime
+#property indicator_color3 clrRed
+#property indicator_color4 clrLime
+#property indicator_color5 clrRed
+#property indicator_color6 clrLime
+#property indicator_color7 clrRed
+#property indicator_color8 clrLime
+#property indicator_width1 3
+#property indicator_width2 3
+#property indicator_width3 6
+#property indicator_width4 6
+#property indicator_width5 2
+#property indicator_width6 2
+#property indicator_width7 4
+#property indicator_width8 4
