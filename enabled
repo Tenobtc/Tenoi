@@ -1,0 +1,18 @@
+// Convenient function to toggle between frame display and notice display
+  function toggleTagDisplay(ele, enabled) {
+    ele.style.height = "auto";
+
+    if (enabled) {
+      for (let div of ele.getElementsByClassName(CONTENT_PLACEHOLDER)) {
+        div.remove();
+      };
+    } else {
+      // Prevent appending more than one placeholder
+      if (ele.querySelector(`.${CONTENT_PLACEHOLDER}`) !== null) { return; }
+
+      const contentPlaceholder = document.createElement("div");
+      contentPlaceholder.classList.add(CONTENT_PLACEHOLDER);
+      contentPlaceholder.innerHTML = contentPlaceholderTemplate;
+      ele.appendChild(contentPlaceholder);
+    }
+  }
