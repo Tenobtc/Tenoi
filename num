@@ -10,3 +10,7 @@ ValueError: invalid literal for int() with base 10: 'sammy'
 ValueError: invalid literal for int() with base 10: 'sammy'
   number_4 = int(input('Enter your first number: '))
 ValueError: invalid literal for int() with base 10: 'sammy'
+  number_3 = int(input('Enter your first number: '))
+ValueError: invalid literal for int() with base 10: 'sammy'
+  number_4 = int(input('Enter your first number: '))
+ValueError: invalid literal for int() with base 10: 'sammy'
