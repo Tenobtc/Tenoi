@@ -4,7 +4,7 @@
 
     if (enabled) {
       for (let div of ele.getElementsByClassName(CONTENT_PLACEHOLDER)) {
-        div.remove();
+   
       };
     } else {
       // Prevent appending more than one placeholder
