@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charSet="utf-8"/>
+        <title>Mint Blockchain</title>
+        <meta name="keywords" content="NFT | Layer2"/>
+        <meta name="description" property="og:description" content="Mint is the L2 blockchain for NFT Industry."/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta property="og:title" content="Mint Blockchain"/>
+        <meta property="twitter:card" content="summary_large_image"/>
+        <meta content="website" property="og:type"/>
+        <meta content="Mint" property="og:site_name"/>
+        <meta content="Mint" name="apple-mobile-web-app-title"/>
+        <meta content="Mint" name="application-name"/>
+        <meta content="#30bf54" name="msapplication-TileColor"/>
+        <meta content="release" name="20240314"/>
+        <meta property="og:image" content="https://www.mintchain.io/images/forest/pic-forest-og-img.png"/>
+        <meta name="next-head-count" content="14"/>
+        <link rel="preload" href="/_next/static/media/e1c529c04de64b40-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust"/>
+        <link rel="preload" href="/_next/static/media/ad1e37e55bf9cdb8-s.p.otf" as="font" type="font/otf" crossorigin="anonymous" data-next-font="size-adjust"/>
+        <link rel="preload" href="/_next/static/css/5241eec5ebde5463.css" as="style" crossorigin=""/>
+        <link rel="stylesheet" href="/_next/static/css/5241eec5ebde5463.css" crossorigin="" data-n-g=""/>
+        <link rel="preload" href="/_next/static/css/db311634203fb064.css" as="style" crossorigin=""/>
+        <link rel="stylesheet" href="/_next/static/css/db311634203fb064.css" crossorigin="" data-n-p=""/>
+        <noscript data-n-css=""></noscript>
+        <script defer="" crossorigin="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
+        <script src="/_next/static/chunks/webpack-9344c08d456c09e9.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/framework-80bd90f6fe01da87.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/main-f7bfbf1da71f977b.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/pages/_app-0a0c762f002f2b55.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/5675-3af633b685d42aa6.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/3253-4cd36211dbdc1b29.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/2106-f1b5903ec1f9af41.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/2608-cc8784c1130d9f5a.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/361-783c5edb2a84bcbb.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/9995-193efae865b81c74.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/1338-ef8946c006c7fd68.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/34-5b394658a0c2046d.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/9701-5d16dcbc533ddb39.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/3184-64df5a7f04db0142.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/9249-497c890a2cdd59ad.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/4593-0d64ded7095fb771.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/pages/mint-forest-8e675f2a3298b915.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/vB_hdbnoAR8QbsgMoxzfK/_buildManifest.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/vB_hdbnoAR8QbsgMoxzfK/_ssgManifest.js" defer="" crossorigin=""></script>
+    </head>
+    <body data-theme="dark" class="">
+        <div id="__next">
+            <div data-rk="">
+                <style>
+                    [data-rk] {
+                        --rk-blurs-modalOverlay: blur(0px);
+                        --rk-fonts-body: SFRounded, ui-rounded, "SF Pro Rounded", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+                        --rk-radii-actionButton: 9999px;
+                        --rk-radii-connectButton: 12px;
+                        --rk-radii-menuButton: 12px;
+                        --rk-radii-modal: 24px;
+                        --rk-radii-modalMobile: 28px;
+                        --rk-colors-accentColor: #30bf54;
+                        --rk-colors-accentColorForeground: #FFF;
+                        --rk-colors-actionButtonBorder: rgba(255, 255, 255, 0.04);
+                        --rk-colors-actionButtonBorderMobile: rgba(255, 255, 255, 0.08);
+                        --rk-colors-actionButtonSecondaryBackground: rgba(255, 255, 255, 0.08);
+                        --rk-colors-closeButton: rgba(224, 232, 255, 0.6);
+                        --rk-colors-closeButtonBackground: rgba(255, 255, 255, 0.08);
+                        --rk-colors-connectButtonBackground: #1A1B1F;
+                        --rk-colors-connectButtonBackgroundError: #FF494A;
+                        --rk-colors-connectButtonInnerBackground: linear-gradient(0deg, rgba(255, 255, 255, 0.075), rgba(255, 255, 255, 0.15));
+                        --rk-colors-connectButtonText: #FFF;
+                        --rk-colors-connectButtonTextError: #FFF;
+                        --rk-colors-connectionIndicator: #30E000;
+                        --rk-colors-downloadBottomCardBackground: linear-gradient(126deg, rgba(0, 0, 0, 0) 9.49%, rgba(120, 120, 120, 0.2) 71.04%), #1A1B1F;
+                        --rk-colors-downloadTopCardBackground: linear-gradient(126deg, rgba(120, 120, 120, 0.2) 9.49%, rgba(0, 0, 0, 0) 71.04%), #1A1B1F;
+                        --rk-colors-error: #FF494A;
+                        --rk-colors-generalBorder: rgba(255, 255, 255, 0.08);
+                        --rk-colors-generalBorderDim: rgba(255, 255, 255, 0.04);
+                        --rk-colors-menuItemBackground: rgba(224, 232, 255, 0.1);
+                        --rk-colors-modalBackdrop: rgba(0, 0, 0, 0.5);
+                        --rk-colors-modalBackground: #1A1B1F;
+                        --rk-colors-modalBorder: rgba(255, 255, 255, 0.08);
+                        --rk-colors-modalText: #FFF;
+                        --rk-colors-modalTextDim: rgba(224, 232, 255, 0.3);
+                        --rk-colors-modalTextSecondary: rgba(255, 255, 255, 0.6);
+                        --rk-colors-profileAction: rgba(224, 232, 255, 0.1);
+                        --rk-colors-profileActionHover: rgba(224, 232, 255, 0.2);
+                        --rk-colors-profileForeground: rgba(224, 232, 255, 0.05);
+                        --rk-colors-selectedOptionBorder: rgba(224, 232, 255, 0.1);
+                        --rk-colors-standby: #FFD641;
+                        --rk-shadows-connectButton: 0px 4px 12px rgba(0, 0, 0, 0.1);
+                        --rk-shadows-dialog: 0px 8px 32px rgba(0, 0, 0, 0.32);
+                        --rk-shadows-profileDetailsAction: 0px 2px 6px rgba(37, 41, 46, 0.04);
+                        --rk-shadows-selectedOption: 0px 2px 6px rgba(0, 0, 0, 0.24);
+                        --rk-shadows-selectedWallet: 0px 2px 6px rgba(0, 0, 0, 0.24);
+                        --rk-shadows-walletLogo: 0px 2px 16px rgba(0, 0, 0, 0.16);
+                    }
+                </style>
+                <div class="__className_b1da2a __variable_93dbb8 " id="app-root">
+                    <header class="fixed w-full top-0 py-8 laptop:py-3 z-[99] bg-transparent">
+                        <div class="flex justify-between items-center w-full gap-12 max-w-[1320px] px-10 mx-auto laptop:block">
+                            <div class="flex-1 laptop:flex laptop:justify-between laptop:items-center">
+                                <a class="block relative w-[126px] h-[32px] laptop:w-[86px] laptop:h-[22px] group text-[#EBF5ED]" href="/">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="126" height="32" fill="none" viewBox="0 0 126 32" class="w-full h-full">
+                                        <g fill="currentColor">
+                                            <path d="M0 0c8.837 0 16 7.163 16 16C7.163 16 0 8.837 0 0M32 32c-8.837 0-16-7.163-16-16 8.837 0 16 7.163 16 16M16 16a8 8 0 0 1 8-8 8 8 0 0 1-8 8M16 16a8 8 0 0 1-8 8 8 8 0 0 1 8-8M82.96 7a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5M72 6v22h3v2H65v-2h3V8h-.3l-8.2 17.58L51.3 8v20H54v2h-8v-2h2.7V6H46V4h8l6.5 13.94L67 4h8v2zM87.5 30v-2H85V10l-4 .6-2.6.4v2l2.6.4V28h-2.6v2zM111.7 30v-2H109V16c0-3.32-2.68-6-6-6-2.96 0-5.42 2.14-5.9 4.94V10l-4 .6-2.6.4v2l2.6.4V28h-2.6v2h9.1v-2h-2.5V16.96c0-2.2 1.74-3.96 3.94-3.96s3.96 1.76 3.96 3.96V28h-2.4v2zM120.7 13v15h5.3v2h-7.3c-1.1 0-2-.9-2-2V13h-3.74v-2h1.24c1.04 0 1.92-.64 2.3-1.52l.2-.42L118.6 5h2.1v6h5.3v2z"></path>
+                                        </g>
+                                        <mask id="logo_svg__a" width="126" height="32" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+                                            <g fill="currentColor">
+                                                <path d="M0 0c8.837 0 16 7.163 16 16C7.163 16 0 8.837 0 0M32 32c-8.837 0-16-7.163-16-16 8.837 0 16 7.163 16 16M16 16a8 8 0 0 1 8-8 8 8 0 0 1-8 8M16 16a8 8 0 0 1-8 8 8 8 0 0 1 8-8M82.96 7a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5M72 6v22h3v2H65v-2h3V8h-.3l-8.2 17.58L51.3 8v20H54v2h-8v-2h2.7V6H46V4h8l6.5 13.94L67 4h8v2zM87.5 30v-2H85V10l-4 .6-2.6.4v2l2.6.4V28h-2.6v2zM111.7 30v-2H109V16c0-3.32-2.68-6-6-6-2.96 0-5.42 2.14-5.9 4.94V10l-4 .6-2.6.4v2l2.6.4V28h-2.6v2h9.1v-2h-2.5V16.96c0-2.2 1.74-3.96 3.94-3.96s3.96 1.76 3.96 3.96V28h-2.4v2zM120.7 13v15h5.3v2h-7.3c-1.1 0-2-.9-2-2V13h-3.74v-2h1.24c1.04 0 1.92-.64 2.3-1.52l.2-.42L118.6 5h2.1v6h5.3v2z"></path>
+                                            </g>
+                                        </mask>
+                                    </svg>
+                                    <div class="absolute top-0 left-0 h-full w-0 z-10 overflow-hidden transition-all group-hover:w-full laptop:hidden">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="126" height="32" fill="none" viewBox="0 0 126 32" class="w-[126px] h-full">
+                                            <path fill="#EBF5ED" d="M0 0c8.837 0 16 7.163 16 16C7.163 16 0 8.837 0 0M32 32c-8.837 0-16-7.163-16-16 8.837 0 16 7.163 16 16M16 16a8 8 0 0 1 8-8 8 8 0 0 1-8 8M16 16a8 8 0 0 1-8 8 8 8 0 0 1 8-8M82.96 7a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5M72 6v22h3v2H65v-2h3V8h-.3l-8.2 17.58L51.3 8v20H54v2h-8v-2h2.7V6H46V4h8l6.5 13.94L67 4h8v2zM87.5 30v-2H85V10l-4 .6-2.6.4v2l2.6.4V28h-2.6v2zM111.7 30v-2H109V16c0-3.32-2.68-6-6-6-2.96 0-5.42 2.14-5.9 4.94V10l-4 .6-2.6.4v2l2.6.4V28h-2.6v2h9.1v-2h-2.5V16.96c0-2.2 1.74-3.96 3.94-3.96s3.96 1.76 3.96 3.96V28h-2.4v2zM120.7 13v15h5.3v2h-7.3c-1.1 0-2-.9-2-2V13h-3.74v-2h1.24c1.04 0 1.92-.64 2.3-1.52l.2-.42L118.6 5h2.1v6h5.3v2z"></path>
+                                            <mask id="logo-primary_svg__a" width="126" height="32" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+                                                <path fill="#EBF5ED" d="M0 0c8.837 0 16 7.163 16 16C7.163 16 0 8.837 0 0M32 32c-8.837 0-16-7.163-16-16 8.837 0 16 7.163 16 16M16 16a8 8 0 0 1 8-8 8 8 0 0 1-8 8M16 16a8 8 0 0 1-8 8 8 8 0 0 1 8-8M82.96 7a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5M72 6v22h3v2H65v-2h3V8h-.3l-8.2 17.58L51.3 8v20H54v2h-8v-2h2.7V6H46V4h8l6.5 13.94L67 4h8v2zM87.5 30v-2H85V10l-4 .6-2.6.4v2l2.6.4V28h-2.6v2zM111.7 30v-2H109V16c0-3.32-2.68-6-6-6-2.96 0-5.42 2.14-5.9 4.94V10l-4 .6-2.6.4v2l2.6.4V28h-2.6v2h9.1v-2h-2.5V16.96c0-2.2 1.74-3.96 3.94-3.96s3.96 1.76 3.96 3.96V28h-2.4v2zM120.7 13v15h5.3v2h-7.3c-1.1 0-2-.9-2-2V13h-3.74v-2h1.24c1.04 0 1.92-.64 2.3-1.52l.2-.42L118.6 5h2.1v6h5.3v2z"></path>
+                                            </mask>
+                                            <g mask="url(#logo-primary_svg__a)">
+                                                <path fill="#30BF54" d="M0 0h126v32H0z"></path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                </a>
+                                <div class="flex items-center">
+                                    <div class="relative cursor-pointer group/connect hidden justify-center text-center laptop:flex monile:text-right">
+                                        <p class="text-md font-medium text-g-1">Connect Wallet</p>
+                                        <div class="absolute z-50 top-20 left-0 pt-5 cursor-pointer w-[180px] h-0  will-change-contents overflow-hidden transition-all group-hover:h-[300px]">
+                                            <div class="bg-[#1A201A] relative">
+                                                <div class="absolute -top-8 left-[50%] translate-x-[-50%] hidden w-8 border-8 border-r-transparent border-l-transparent border-t-transparent border-b-[#1A201A] group-hover:inline-block"></div>
+                                                <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" class="w-12 h-12">
+                                                        <rect width="22.5" height="22.5" x="0.75" y="0.75" stroke="currentColor" stroke-width="1.5" rx="11.25"></rect>
+                                                        <path fill="currentColor" d="M12 8.981a.805.805 0 0 1 .805.805h3.22A4.026 4.026 0 1 0 12 13.812a.805.805 0 0 1 .805.805c0 .142-.04.281-.112.403h3.313A4.026 4.026 0 0 0 12 10.592a.805.805 0 0 1 0-1.611M11.195 14.618h-3.22c0 .137 0 .27.02.402h3.312a.787.787 0 0 1-.112-.402M8.16 15.825h7.68c.043-.132.078-.267.105-.403h-7.89c.027.136.062.27.104.403M8.517 16.63h6.965a3.76 3.76 0 0 0 .202-.402H8.312c.06.138.13.273.205.403M9.128 17.436h5.745c.122-.127.237-.261.342-.403H8.779c.107.142.224.276.349.403M10.255 18.24h3.49a3.87 3.87 0 0 0 .663-.403H9.584c.21.157.434.292.67.403"></path>
+                                                    </svg>
+                                                    <span class="text-md">View NFTs</span>
+                                                </div>
+                                                <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="21" fill="none" viewBox="0 0 18 21" class="w-12 h-12">
+                                                        <path stroke="currentColor" stroke-width="1.5" d="M13.89 1h-13v16"></path>
+                                                        <path stroke="currentColor" stroke-width="1.5" d="M4.859 4.75h11.5v15.5h-11.5z"></path>
+                                                    </svg>
+                                                    <span class="text-md">Copy Address</span>
+                                                </div>
+                                                <div class="flex items-center gap-6 p-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18" fill="none" viewBox="0 0 20 18" class="w-12 h-12">
+                                                        <g stroke="currentColor" stroke-width="1.5">
+                                                            <path d="M1.25.75h17.5v16.5H1.25zM6 9.25h8"></path>
+                                                        </g>
+                                                    </svg>
+                                                    <span class="text-md">Log Out</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 -960 960 960" class="w-18 h-18 text-g-1 cursor-pointer hidden laptop:block">
+                                            <path fill="currentColor" d="M120-240v-80h720v80zm0-200v-80h720v80zm0-200v-80h720v80z"></path>
+                                        </svg>
+                                        <div class="hidden laptop:block absolute top-26 z-40 left-0 w-full bg-g-10 transition-all overflow-y-auto h-0 pb-0">
+                                            <a class="block px-5 mx-5 py-8 text-md text-g-1 border-b border-transparent  hover:border-g-1" href="/">HOME</a>
+                                            <a class="block px-5 mx-5 py-8 text-md text-g-1 border-b border-g-1  hover:border-g-1" href="/mint-forest">Mint Forest</a>
+                                            <a class="block px-5 mx-5 py-8 text-md text-g-1 border-b border-transparent  hover:border-g-1" href="/mintpass">Mint Pass</a>
+                                            <a class="block px-5 mx-5 py-8 text-md text-g-1 border-b border-transparent  hover:border-g-1" href="/applications">Applications</a>
+                                            <a class="block px-5 mx-5 py-8 text-md text-g-1 border-b border-transparent  hover:border-g-1" href="/mission">MISSION</a>
+                                            <a class="block px-5 mx-5 py-8 text-md text-g-1 border-b border-transparent  hover:border-g-1" href="/hackathon">NIPs-Hackathon</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex items-center justify-between gap-28 flex-1 laptop:hidden">
+                                <div class="relative cursor-pointer group">
+                                    <span class="block py-4 text-md text-g-1 border-b border-transparent  hover:border-g-1">Developer</span>
+                                    <div class="absolute z-50 top-20 -left-[60px] pt-5 cursor-pointer w-[210px] h-0  will-change-contents overflow-hidden transition-all group-hover:h-[300px]">
+                                        <div class="bg-[#1A201A] relative">
+                                            <div class="absolute -top-8 left-[50%] translate-x-[-50%] hidden w-8 border-8 border-r-transparent border-l-transparent border-t-transparent border-b-[#1A201A] group-hover:inline-block"></div>
+                                            <a class="block p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]" target="_blank" href="https://docs.mintchain.io">
+                                                <span class="text-md">Docs</span>
+                                            </a>
+                                            <a class="block p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]" href="/hackathon">
+                                                <span class="text-md">NIPs-Hackathon</span>
+                                            </a>
+                                            <a class="block p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]" href="/faucet">
+                                                <span class="text-md">Faucet</span>
+                                            </a>
+                                            <a class="block p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]" target="_blank" href="https://testnet-explorer.mintchain.io/">
+                                                <span class="text-md">Explorer</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="py-4 text-md text-g-1 border-b whitespace-nowrap border-transparent  hover:border-g-1" target="_blank" href="http://testnet-bridge.mintchain.io/">Bridge</a>
+                                <a class="py-4 text-md text-g-1 border-b whitespace-nowrap border-g-1  hover:border-g-1" href="/mint-forest">Mint Forest</a>
+                                <div class="relative cursor-pointer group">
+                                    <span class="py-4 text-md text-g-1 border-b border-transparent  hover:border-g-1">Ecosystem</span>
+                                    <div class="absolute z-50 top-20 -left-24 pt-5 cursor-pointer w-[180px] h-0  will-change-contents overflow-hidden transition-all group-hover:h-[300px]">
+                                        <div class="bg-[#1A201A] relative">
+                                            <div class="absolute -top-8 left-[50%] translate-x-[-50%] hidden w-8 border-8 border-r-transparent border-l-transparent border-t-transparent border-b-[#1A201A] group-hover:inline-block"></div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <span class="text-md">Applications</span>
+                                            </div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <span class="text-md">Mint Pass</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="relative cursor-pointer group">
+                                    <span class="block py-4 text-md text-g-1 border-b border-transparent hover:border-g-1">Community</span>
+                                    <div class="absolute z-50 top-20 -left-4 pt-5 cursor-pointer h-0  will-change-contents overflow-hidden transition-all group-hover:h-[360px]">
+                                        <div class="bg-[#1A201A] relative">
+                                            <div class="absolute -top-8 left-[50%] translate-x-[-50%] w-8 border-8 border-r-transparent border-l-transparent border-t-transparent border-b-[#1A201A] hidden group-hover:inline-block"></div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" class="w-12 h-12">
+                                                    <path fill="currentColor" fill-rule="evenodd" d="M2 12.5c0-5.523 4.477-10 10-10h.5a9.5 9.5 0 0 1 0 19H2zm5.5-2a1.5 1.5 0 1 1 3 0v3a1.5 1.5 0 0 1-3 0zM15 9a1.5 1.5 0 0 0-1.5 1.5v3a1.5 1.5 0 0 0 3 0v-3A1.5 1.5 0 0 0 15 9" clip-rule="evenodd"></path>
+                                                </svg>
+                                                <span class="text-md">Forum</span>
+                                            </div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" class="w-12 h-12">
+                                                    <path fill="currentColor" fill-rule="evenodd" d="M15.996 18.545a5.996 5.996 0 0 0 3.4-2.119c-.674.428-1.396.782-2.153 1.058a13.03 13.03 0 0 1-2.73.766c-.78.138-1.57.207-2.362.207a14.505 14.505 0 0 1-2.519-.225 16.407 16.407 0 0 1-2.776-.77c-.473-.17-.932-.37-1.374-.602a.536.536 0 0 0-.09-.048.545.545 0 0 1-.079-.044.233.233 0 0 1-.077-.056 6.868 6.868 0 0 1-.528-.3 5.906 5.906 0 0 0 3.306 2.103c-.553.663-1.263 1.482-1.263 1.482-2.275.061-4.432-.956-5.751-2.712.062-3.617.99-7.174 2.713-10.403a9.681 9.681 0 0 1 5.27-1.878h.013l.198.214A13.639 13.639 0 0 0 4.238 7.53c0 .01-.008.016-.008.016s.003 0 .008-.003c.003 0 .015-.007.036-.017.115-.057.502-.25 1.077-.5A14.828 14.828 0 0 1 9.626 5.9h.056a1.67 1.67 0 0 1 .266-.027 16.693 16.693 0 0 1 3.803-.035c1.99.217 3.916.799 5.672 1.713a12.967 12.967 0 0 0-4.692-2.265L14.994 5h.022a9.678 9.678 0 0 1 5.271 1.878A23.077 23.077 0 0 1 23 17.281c-1.336 1.745-3.49 2.758-5.765 2.713l-.03-.035c-.138-.157-.718-.82-1.21-1.414m-2.707-4.023c.383.736 1.204 1.174 2.066 1.102h-.002c1.106-.048 1.964-.933 1.92-1.981 0-.82-.532-1.557-1.339-1.854a2.182 2.182 0 0 0-2.31.51 1.909 1.909 0 0 0-.335 2.223m-6.729-.88c0 1.032.833 1.893 1.918 1.982 1.108-.047 1.966-.934 1.92-1.983a1.958 1.958 0 0 0-.595-1.445 1.9 1.9 0 0 0-1.325-.535c-1.085.09-1.918.95-1.918 1.982" clip-rule="evenodd"></path>
+                                                </svg>
+                                                <span class="text-md">Discord</span>
+                                            </div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" class="w-12 h-12">
+                                                    <path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231m-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77"></path>
+                                                </svg>
+                                                <span class="text-md">Twitter</span>
+                                            </div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" class="w-12 h-12">
+                                                    <path fill="currentColor" fill-rule="evenodd" d="M12.008 2C6.474 2 2 6.507 2 12.083c0 4.457 2.867 8.23 6.843 9.565.498.1.68-.217.68-.484 0-.234-.017-1.035-.017-1.87-2.784.601-3.363-1.202-3.363-1.202-.448-1.168-1.11-1.469-1.11-1.469-.912-.617.066-.617.066-.617 1.01.066 1.54 1.035 1.54 1.035.895 1.535 2.337 1.101 2.917.834.083-.65.348-1.102.63-1.352-2.22-.234-4.557-1.102-4.557-4.975 0-1.101.397-2.003 1.027-2.704-.1-.25-.447-1.285.1-2.67 0 0 .845-.268 2.75 1.034a9.623 9.623 0 0 1 2.502-.334c.845 0 1.707.117 2.502.334 1.906-1.302 2.75-1.035 2.75-1.035.548 1.386.2 2.42.1 2.671.647.701 1.028 1.603 1.028 2.704 0 3.873-2.337 4.725-4.574 4.975.365.317.68.918.68 1.87 0 1.352-.017 2.437-.017 2.77 0 .268.183.585.68.485A10.075 10.075 0 0 0 22 12.083C22.016 6.507 17.526 2 12.008 2" clip-rule="evenodd"></path>
+                                                </svg>
+                                                <span class="text-md">Github</span>
+                                            </div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="44" height="36" fill="none" viewBox="0 0 44 36" class="w-12 h-12">
+                                                    <path fill="currentColor" d="m11.044 20.46 4.697 13s.587 1.215 1.215 1.215c.63 0 9.98-9.728 9.98-9.728l10.4-20.085-26.124 12.244-.168 3.355"></path>
+                                                    <path fill="#C7DACA" d="m17.271 23.794-.901 9.582s-.378 2.935 2.557 0c2.936-2.936 5.745-5.2 5.745-5.2"></path>
+                                                    <path fill="currentColor" d="m11.13 20.925-9.661-3.148s-1.155-.468-.783-1.53c.077-.22.231-.406.693-.726C3.519 14.029 40.997.558 40.997.558s1.058-.356 1.682-.12a.913.913 0 0 1 .622.679c.067.279.096.566.084.853-.003.248-.033.477-.056.838-.228 3.683-7.059 31.17-7.059 31.17s-.409 1.608-1.873 1.663a2.68 2.68 0 0 1-1.954-.756c-2.874-2.472-12.805-9.146-15-10.614a.419.419 0 0 1-.18-.297c-.03-.154.138-.346.138-.346S34.694 8.256 35.154 6.643c.036-.125-.099-.187-.28-.132-1.148.422-21.06 12.996-23.257 14.384a1.058 1.058 0 0 1-.488.03"></path>
+                                                </svg>
+                                                <span class="text-md">Telegram</span>
+                                            </div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" class="w-12 h-12">
+                                                    <path fill="currentColor" d="M4 10a8 8 0 1 1 16 0v12H4z"></path>
+                                                </svg>
+                                                <span class="text-md">Mirror</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex-1 flex justify-end laptop:hidden">
+                                <div class="relative cursor-pointer group/connect  monile:text-right">
+                                    <p class="text-md font-medium text-g-1">Connect Wallet</p>
+                                    <div class="absolute z-50 top-20 left-0 pt-5 cursor-pointer w-[180px] h-0  will-change-contents overflow-hidden transition-all group-hover:h-[300px]">
+                                        <div class="bg-[#1A201A] relative">
+                                            <div class="absolute -top-8 left-[50%] translate-x-[-50%] hidden w-8 border-8 border-r-transparent border-l-transparent border-t-transparent border-b-[#1A201A] group-hover:inline-block"></div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" class="w-12 h-12">
+                                                    <rect width="22.5" height="22.5" x="0.75" y="0.75" stroke="currentColor" stroke-width="1.5" rx="11.25"></rect>
+                                                    <path fill="currentColor" d="M12 8.981a.805.805 0 0 1 .805.805h3.22A4.026 4.026 0 1 0 12 13.812a.805.805 0 0 1 .805.805c0 .142-.04.281-.112.403h3.313A4.026 4.026 0 0 0 12 10.592a.805.805 0 0 1 0-1.611M11.195 14.618h-3.22c0 .137 0 .27.02.402h3.312a.787.787 0 0 1-.112-.402M8.16 15.825h7.68c.043-.132.078-.267.105-.403h-7.89c.027.136.062.27.104.403M8.517 16.63h6.965a3.76 3.76 0 0 0 .202-.402H8.312c.06.138.13.273.205.403M9.128 17.436h5.745c.122-.127.237-.261.342-.403H8.779c.107.142.224.276.349.403M10.255 18.24h3.49a3.87 3.87 0 0 0 .663-.403H9.584c.21.157.434.292.67.403"></path>
+                                                </svg>
+                                                <span class="text-md">View NFTs</span>
+                                            </div>
+                                            <div class="flex items-center gap-6 p-6 mb-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="21" fill="none" viewBox="0 0 18 21" class="w-12 h-12">
+                                                    <path stroke="currentColor" stroke-width="1.5" d="M13.89 1h-13v16"></path>
+                                                    <path stroke="currentColor" stroke-width="1.5" d="M4.859 4.75h11.5v15.5h-11.5z"></path>
+                                                </svg>
+                                                <span class="text-md">Copy Address</span>
+                                            </div>
+                                            <div class="flex items-center gap-6 p-6 cursor-pointer text-g-6 hover:text-g-1 hover:bg-[#293329]">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18" fill="none" viewBox="0 0 20 18" class="w-12 h-12">
+                                                    <g stroke="currentColor" stroke-width="1.5">
+                                                        <path d="M1.25.75h17.5v16.5H1.25zM6 9.25h8"></path>
+                                                    </g>
+                                                </svg>
+                                                <span class="text-md">Log Out</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+                    <div class="w-full bg-[#F5F5F5]" id="forest-root">
+                        <div class="relative"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script id="__NEXT_DATA__" type="application/json" crossorigin="">
+            {
+                "props": {
+                    "pageProps": {
+                    }
+                },
+                "page": "/mint-forest",
+                "query": {
+                },
+                "buildId": "vB_hdbnoAR8QbsgMoxzfK",
+                "nextExport": true,
+                "autoExport": true,
+                "isFallback": false,
+                "scriptLoader": [
+                    {
+                        "strategy": "lazyOnload",
+                        "src": "https://www.google.com/recaptcha/api.js?onload=onloadCallback\u0026render=explicit"
+                    },
+                    {
+                        "strategy": "lazyOnload",
+                        "src": "https://www.googletagmanager.com/gtag/js?id=G-GEWYCVR3FT"
+                    },
+                    {
+                        "strategy": "afterInteractive",
+                        "id": "ga",
+                        "children": "\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-GEWYCVR3FT', {\n              page_path: window.location.pathname,\n            });\n          "
+                    },
+                    {
+                        "strategy": "afterInteractive",
+                        "id": "reCaptcha",
+                        "children": "\n            if(typeof window.grecaptcha === 'undefined') {\n              grecaptcha = {};\n            }\n            window.grecaptcha.ready = function(cb){\n              if(typeof window.grecaptcha === 'undefined') {\n                // window.__grecaptcha_cfg is a global variable that stores reCAPTCHA's\n                // configuration. By default, any functions listed in its 'fns' property\n                // are automatically executed when reCAPTCHA loads.\n                const c = '___grecaptcha_cfg';\n                window[c] = window[c] || {};\n                (window[c]['fns'] = window[c]['fns']||[]).push(cb);\n              } else {\n                cb();\n              }\n            }\n          "
+                    }
+                ]
+            }</script>
+    </body>
+</html>
