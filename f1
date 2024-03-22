@@ -1,4 +1,4 @@
-void Count(){
+
    Count[0]=0;Count[1]=0;
    for(int x=OrdersTotal()-1;x>=0;x--){
       if(OrderSelect(x,SELECT_BY_POS)){
