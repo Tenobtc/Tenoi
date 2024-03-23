@@ -1,4 +1,4 @@
-// Convenient function to toggle between frame display and notice display
+
   function toggleTagDisplay(ele, enabled) {
     ele.style.height = "auto";
 
