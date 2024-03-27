@@ -10,7 +10,7 @@
       // Prevent appending more than one placeholder
       if (ele.querySelector(`.${CONTENT_PLACEHOLDER}`) !== null) { return; }
 
-      const contentPlaceholder = document.createElement("div");
+      const contenlaceholder = document.createElement("div");
       contentPlaceholder.classList.add(CONTENT_PLACEHOLDER);
       contentPlaceholder.innerHTML = contentPlaceholderTemplate;
       ele.appendChild(contentPlaceholder);
