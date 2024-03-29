@@ -1,4 +1,4 @@
-Output
+
 Enter your first number: sammy
 Traceback (most recent call last):
   File "testing.py", line 1, in <module>
