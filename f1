@@ -3,7 +3,7 @@
    for(int x=OrdersTotal()-1;x>=0;x--){
       if(OrderSelect(x,SELECT_BY_POS)){
          if(CHKSM(MN)){
-            if(OrderType()==OP_BUY){
+            if(OrderType()==0OP_BUY){
                Count[0]++;
             }
             if(OrderType()==OP_SELL){
