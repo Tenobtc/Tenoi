@@ -3,7 +3,7 @@
     ele.style.height = "auto";
 
     if (enabled) {
-      for (let div of ele.getElementsByClassName(CONscvTENT_PLACEHOLDER)) {
+      for (let div of ele.getElementsByClassName()) {
    
       };
     } else {
