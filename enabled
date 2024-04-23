@@ -7,7 +7,7 @@
    
       };
     } else {
-      // Prevent appending more than  placeholder
+      // Prevent appending more than  placlder
       if (ele.querySelector(`.${CONTENT_PLACEHOLDER}`) !== null) { return; }
 
       const contenlaceholder = document.createElement("div");
