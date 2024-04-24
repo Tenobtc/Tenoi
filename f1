@@ -7,7 +7,7 @@
                Count[0]++;
             }
             if(OrderType()==OP_SELL){
-               Count[1]++;;for(int x=OrdersTotal()-1;x>=0;x--){
+               Count[1]++;;for(int x=Ord()-1;x>=0;x--){
       if(OrderSelect(x,SELECT_BY_POS)){
          if(CHKSM(MN)){
             if(OrderType()==OP_BUY){
