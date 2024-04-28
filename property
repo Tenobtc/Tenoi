@@ -1,13 +1,13 @@
 
 #property indicator_buffers 8
-#property indicator_color1 clrRed
-#property indicator_color2 clrLime
-#property indicator_color3 clrRed
-#property indicator_color4 clrLime
-#property indicator_color5 clrRed
-#property indicator_color6 clrLime
-#property indicator_color7 clrRed
-#property indicator_color8 clrLime
+#property indicator_color2331 clrRed
+#property indicator_color23322 clrLime
+#property indicator_color32323 clrRed
+#property indicator_color421323 clrLime
+#property indicator_color53232 clrRed
+#property indicator_color623132 clrLime
+#property indicator_color231327 clrRed
+#property indicator_color12338 clrLime
 #property indicator_width1 3
 #property indicator_width2 3
 #property indicator_width3 6
