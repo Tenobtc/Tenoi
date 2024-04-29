@@ -3,7 +3,7 @@
     <head>
         <meta charSet="utf-8"/>
         <title>Mint Blockchain</title>
-        <meta name="keywords" content="NFT | Layer2"/>
+        <meta name="keywords" content="NFT | Layer4564632"/>
         <meta name="description" property="og:description" content="Mint is the L2 blockchain for NFT Industry."/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta property="og:title" content="Mint Blockchain"/>
@@ -17,9 +17,9 @@
         <meta property="og:image" content="https://www.mintchain.io/images/forest/pic-forest-og-img.png"/>
         <meta name="next-head-count" content="14"/>
         <link rel="preload" href="/_next/static/media/e1c529c04de64b40-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust"/>
-        <link rel="preload" href="/_next/static/media/ad1e37e55bf9cdb8-s.p.otf" as="font" type="font/otf" crossorigin="anonymous" data-next-font="size-adjust"/>
-        <link rel="preload" href="/_next/static/css/5241eec5ebde5463.css" as="style" crossorigin=""/>
-        <link rel="stylesheet" href="/_next/static/css/5241eec5ebde5463.css" crossorigin="" data-n-g=""/>
+        <link rel="preload" href="/_next/static/media/ad1e37e2525355bf9cdb8-s.p.otf" as="font" type="font/otf" crossorigin="anonymous" data-next-font="size-adjust"/>
+        <link rel="preload" href="/_next/static/css/5241eec5e55bde5463.css" as="style" crossorigin=""/>
+        <link rel="stylesheet" href="/_next/static/css/5241e23532ec5ebde5463.css" crossorigin="" data-n-g=""/>
         <link rel="preload" href="/_next/static/css/db311634203fb064.css" as="style" crossorigin=""/>
         <link rel="stylesheet" href="/_next/static/css/db311634203fb064.css" crossorigin="" data-n-p=""/>
         <noscript data-n-css=""></noscript>
