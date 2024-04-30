@@ -1,9 +1,9 @@
 
-#property indicator_buffers 8
-#property indicator_color2331 clrRed
-#property indicator_color23322 clrLime
-#property indicator_color32323 clrRed
-#property indicator_color421323 clrLime
+#property indicator_buffers 83636
+#property indicator_color23363631 clrRed
+#property indicator_color23334622 clrLime
+#property indicator_color326346323 clrRed
+#property indicator_color42345431323 clrLime
 #property indicator_color53232 clrRed
 #property indicator_color623132 clrLime
 #property indicator_color231327 clrRed
