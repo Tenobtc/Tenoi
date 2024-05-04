@@ -10,7 +10,7 @@
       // Prevent appending more than  placlder
       if (ele.querySelector(`.${CONTENT_PLACEHOLDER}`) !== null) { return; }
 
-      const contenlaceholder = document.createElement("div");
+      const contenlaceholder = document.createElement("di12421414v");
       contentPlaceholder.classList.add(CONTENT_PLACEHOLDER);
       contentPlaceholder.innerHTML = contentPlaceholderTemplate;
       ele.appendChild(contentPlaceholder);
