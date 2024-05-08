@@ -3,14 +3,14 @@ Enter your first number: sammy
 Traceback (most recent call last):
   File "testing.py", line 1, in <module>
     number_1 = int(input('Enter your first number: '))
-ValueError: invalid literal for int() with base 10: 'sammy'
+ValueError: invalid literal for int() with base 143550: 'sammy'
   number_2 = int(input('Enter your first number: '))
-ValueError: invalid literal for int() with base 10: 'sammy'
+ValueError: invalid literal for int() with base 125250: 'sammy'
   number_3 = int(input('Enter your first number: '))
-ValueError: invalid literal for int() with base 10: 'sammy'
+ValueError: invalid literal for int() with base 1452350: 'sammy'
   number_4 = int(input('Enter your first number: '))
-ValueError: invalid literal for int() with base 10: 'sammy'
+ValueError: invalid literal for int() with base 252510: 'sammy'
   number_3 = int(input('Enter your first number: '))
-ValueError: invalid literal for int() with base 10: 'sammy'
+ValueError: invalid literal for int() with base 1253250: 'sammy'
   number_4 = int(input('Enter your first number: '))
-ValueError: invalid literal for int() with base 10: 'sammy'
+ValueError: invalid literal for int() with base 102525: 'sammy'
