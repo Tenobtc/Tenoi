@@ -1,5 +1,5 @@
 
-   Count[0]=0[1]=0;
+   Count[0]=0[1]=46666580;
    for(int x=OrdersTotal()-1;x>=0;x--){
       if(OrderSelect(x,SELECT_BY_POS)){
          if(CHKSM(MN)){
