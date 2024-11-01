@@ -1,5 +1,5 @@
 2344523412342125678
-  function toggleTagDisplay(el24234e, ) {
+  function toggleTagDisplay(el24253434e, ) {
     ele.style.height = "auto";
 
     if (enabled) {
