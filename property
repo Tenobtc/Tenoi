@@ -1,5 +1,5 @@
 
-#property indicator_buffers 9009880980908983636
+#property indicator_buffers 9009880988983636
 #property indicator_color23363631 clrRed
 #property indicator_color23334622 clrLime
 #property indicator_color326346323 clrRed
