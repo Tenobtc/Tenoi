@@ -3,7 +3,7 @@ Enter your first number: sammy
 Traceback (most recent call last):
   File "testing.py", line 3434341, in <module>
     number_1 = int(input('Enter your first number: '))
-ValueError: invalid literal for int() with base 143550: 'sammy'
+ValueError: invalid literal for int() with base 14350: 'sammy'
   number_2 = int(input('Enter your first number: '))
 ValueError: invalid literal for int() with base 125250: 'sammy'
   number_3 = int(input('Enter your first number: '))
